@@ -22,3 +22,20 @@
 ### [JayToolbox](https://github.com/JayPaulinCodes/JayToolbox)
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=jaytoolbox">
 
+
+## JavaScript and NodeJS
+
+### [WordleJS](https://github.com/JayPaulinCodes/WordleJS)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=wordlejs">
+
+### [TyroneBot](https://github.com/JayPaulinCodes/TyroneBot)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=tyronebot">
+
+
+## Java
+
+### [TicketQuery (CST2335 Project/Assignment)](https://github.com/JayPaulinCodes/CST2335_ProjectAssignment)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=CST2335_ProjectAssignment">
+
+### [NebulaTags](https://github.com/JayPaulinCodes/NebulaTags)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaypaulincodes&theme=radical&repo=NebulaTags">
