@@ -68,6 +68,9 @@ I've made a small orginazation for myself to showcase work and collaborate with 
 
   ### [smush](https://github.com/JayPaulinCodes/smush)
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JayPaulinCodes&theme=radical&repo=smush">
+
+  ### [Logger](https://github.com/JayPaulinCodes/Logger)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JayPaulinCodes&theme=radical&repo=Logger">
 </details>
 
 
