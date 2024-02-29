@@ -3,6 +3,15 @@
 I've made a small orginazation for myself to showcase work and collaborate with others, it's called SparrowStudios and can be found on [GitHub](https://github.com/SparrowStudios) and on [Discord](https://discord.gg/FTYjcbkzFn)
 <br>
 
+
+<details>
+  <summary>NPM Packages</summary>
+  
+  ### [@devjacob/smush](https://www.npmjs.com/package/@devjacob/smush)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JayPaulinCodes&theme=radical&repo=smush">
+</details>
+
+
 <details>
   <summary>Lua and FiveM</summary>
 
@@ -56,6 +65,9 @@ I've made a small orginazation for myself to showcase work and collaborate with 
   
   ### [ssQueue](https://github.com/SparrowStudios/ssQueue)
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparrowStudios&theme=radical&repo=ssQueue">
+
+  ### [smush](https://github.com/JayPaulinCodes/smush)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JayPaulinCodes&theme=radical&repo=smush">
 </details>
 
 
